@@ -1,16 +1,42 @@
-# your_kitchen
+# **Your Kitchen**
 
-A new Flutter project.
+## **Overview**
 
-## Getting Started
+A **Flutter-based Recipe App** that allows users to search and explore recipes using the **Edamam API**. Features categorized browsing, personalized suggestions, and web redirection for full recipe details.
 
-This project is a starting point for a Flutter application.
+## **📱 Features**
 
-A few resources to get you started if this is your first Flutter project:
+- **Search Recipes**: Find recipes using keywords.
+- **Categories**: Browse recipes by category with images.
+- **Suggested for You**: Displays random recipe suggestions.
+- **Detailed Recipe View**: Redirects to the full recipe webpage.
+- **Error Handling**: Displays an error message for unavailable pages.
+- **Smooth UI**: Gradient-themed app bar and intuitive navigation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **📸 Screenshots**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/WaleedTaj/Your_Kitchen/blob/master/assets/images/Screenshot1.jpeg" width="200" style="margin-right: 20px;"/> <img src="https://github.com/WaleedTaj/Your_Kitchen/blob/master/assets/images/Screenshot2.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/Your_Kitchen/blob/master/assets/images/Screenshot3.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/Your_Kitchen/blob/master/assets/images/Screenshot4.jpeg" width="200"/> <img src="https://github.com/WaleedTaj/Your_Kitchen/blob/master/assets/images/Screenshot5.jpeg" width="200"/>
+
+## **🚀 Getting Started**
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/WaleedTaj/Your_Kitchen.git
+   ```
+2. **Install Dependencies**:
+   ```bash
+   flutter pub get
+   ```
+3. **Run the App**:
+   ```bash
+   flutter run
+   ```
+
+## 🛠️ Built With
+
+- **Flutter**: UI toolkit for building natively compiled applications.
+- **Dart**: Programming language optimized for building mobile apps.
+- **Edamam API**: Fetches recipe data.
+
+---
+
